@@ -5,6 +5,6 @@ The global settings and parameters are stored in homogsett.py
 
 
 
-<h2>Requirements 2</h2>
+<h3>Requirements </h3>
 
 Python librairies: numpy, pandas, scipy, sklearn
